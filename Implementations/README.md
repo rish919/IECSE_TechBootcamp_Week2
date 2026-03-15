@@ -11,7 +11,7 @@ Included implementations:
 
 # How You Should Use These Implementations
 
-Do NOT immediately read the code.
+Try not to immediately read the code.
 
 The goal is to **understand how pointers work**, not just copy the implementation.
 
@@ -132,6 +132,4 @@ If you can implement:
 - Delete
 - Traverse
 
-without looking at code,
-
-then you truly understand Linked Lists.
+without looking at code, then you truly understand Linked Lists.
